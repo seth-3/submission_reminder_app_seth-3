@@ -32,8 +32,8 @@ cat << EOF > "$sb_dir/assets/submissions.txt"
 student, assignment, submission status
 Chinemerem, Shell Navigation, not submitted
 Chiagoziem, Git, submitted
-Seth, Shell Navigation, not submitted
-Andy, Shell Basics, submitted
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
 Tedy, Shell Navigation, not submitted
 Tont, Shell Navigation, not submitted
 Kenny, Shell Navigation, not submitted
